@@ -1,6 +1,8 @@
 # Analysis of Wine Ratings on Wine Enthusiast (Rough Draft)
 #### Written by Kyle Peeler
 
+Published at https://github.com/kylepeeler/csci490-data-science-blog
+
 ## Introduction
 This semester I am in my senior year and was in desperate need of a cultural understanding class to graduate, so I decided to take Wines of the World. Previous to this class I would call myself a beer guy, but this class has helped me to not only learn a ton about wine, but also discover a new alcohol beverage preference. With my new-found love of tasting different kinds of wine, [I came across a cool data set](https://www.kaggle.com/zynicide/wine-reviews) comprised of ratings from [WineEnthusiast.com](http://www.WineEnthusiast.com) and thought I'd use my data science skills to see what I could learn about different kinds of wine. Using this data, I posed 3 few questions for myself to analyze: How does price of wine relate to the points awarded? What countries make the best wine? What words are most used in reviews for higher scoring/lower scoring wines? 
 
