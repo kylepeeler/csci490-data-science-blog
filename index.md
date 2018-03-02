@@ -17,7 +17,7 @@ One thing that I have come to learn is that a "good" bottle of wine does not alw
 
 Here we are plotting all 130,000 reviews with their points vs price. With 130,000 data points, their is a ton of data to process (and thus hard to generate a responsive interactive chart) and the outliers skew the graph somewhat. I have decided to randomly sample 10,000 wine reviews while removing outliers (price < $1400) to further analyze the relationship using an interactive plot.
 
-<iframe src="file:///Users/kyle/School/CS490/wine-blog-post/interactive-points-vs-price.html" width=580 height=580></iframe>
+<iframe src="http://kylepeeler.io/files/datascience/interactive-points-vs-price.html" width=580 height=580></iframe>
 
 As we can see by the plot and the regression line there does not suggest a strong correlation between points and price. Thus, you don't have to be rich to try great wine (maybe part of the reason I started liking wine so much as a poor college student?). This is further confirmed by running the correlation function in R, with a result that is less than .5 for both the entire data set and the sample, suggesting price is not strongly related to the associated rating.
 
